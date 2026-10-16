@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "LISTEN LOG — 試聴ノート",
+  "short_name": "試聴ノート",
+  "description": "ワイヤレスイヤホンの音質・装着感・気に入り度を端末内に記録する試聴ノート",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f5ef",
+  "theme_color": "#172d28",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
